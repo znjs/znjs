@@ -5,6 +5,8 @@
 - 🌍  I'm based in Bangalore
 - 🧠  I'm learning JavaScript, React, Node, Redux
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=znjs&label=Profile%20views&color=0e75b6&style=flat" alt="znjs" /> </p>
+
 <a href="https://www.twitter.com/jayasrikark" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/jayasrikark?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
