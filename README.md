@@ -3,7 +3,8 @@
 ## Frontend Developer
 
 - 🌍  I'm based in Bangalore
-- 🧠  I'm learning JavaScript, React, Node, Redux
+- 🧠  Love building frontend for web application which are easy to user friendly and easy to use.
+- 🌐  Love the JS ecosystem and building with it
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=znjs&label=Profile%20views&color=0e75b6&style=flat" alt="znjs" /> </p>
 
