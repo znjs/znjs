@@ -1,4 +1,4 @@
-# Hi 👋 My name is Jaya Srikar
+# Hi 👋 My name is Jaya Srikar (JS)
 
 ## Frontend Developer 👨🏻‍💻
 
